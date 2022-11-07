@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "SlotBooking_RecyclerView_Main"
